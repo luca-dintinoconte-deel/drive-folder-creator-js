@@ -24,7 +24,7 @@ A Node.js application designed to create standardized organization folder struct
 1.  Clone the repository:
     ```bash
     git clone <repository-url>
-    cd drive-folder-creator
+    cd drive-folder-creator-js
     ```
 
 2.  Install dependencies:
